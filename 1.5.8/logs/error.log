@@ -1,3 +1,5 @@
 2017/06/17 22:23:43 [emerg] 6884#4320: unknown directive "rtmp" in C:\Users\Administrator\Desktop\nginx-1.8.1/conf/nginx.conf:16
 2017/06/17 22:40:01 [emerg] 3400#8844: unknown directive "rtmp" in C:\Users\Administrator\Desktop\nginx-1.8.1/conf/nginx.conf:16
 2017/06/17 22:42:13 [error] 7496#7852: *1 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.8.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/06/24 11:18:01 [emerg] 6520#6108: CreateFile() "C:\Users\Administrator\Desktop\LiveStream\直播服务器搭建/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2017/06/24 11:22:11 [emerg] 7024#6848: CreateFile() "C:\Users\Administrator\Desktop\LiveStream\直播服务器搭建/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
